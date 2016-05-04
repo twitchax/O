@@ -5,7 +5,7 @@ An object guy.
 
 ## Information
 
-The syntax is pretty self-explanatory in the code.  Look at "O_Impl" and "A_Impl" for syntax.  The only interesting part is how "O" pass function names through to the object.  Therefore, you can use _function names_ as property setters.  See [examples](#Examples) for more details.
+The syntax is pretty self-explanatory in the code.  Look at "O_Impl" and "A_Impl" for syntax.  The only interesting part is how "O" pass function names through to the object.  Therefore, you can use _function names_ as property setters.  See [examples](#examples) for more details.
 
 ### Examples
 A basic example follows:
