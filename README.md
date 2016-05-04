@@ -20,7 +20,7 @@ Chrome.
 Chrome.
 
 ### Examples
-A basic example follows:
+A basic "O" example follows:
 ```javascript
 O
   .refresh(true)
@@ -32,6 +32,19 @@ O
 yields
 ```javascript
 { refresh: true, voteSort: 'Count', arguments: { round: 0 } }
+```
+
+A basic "A" example follows:
+```javascript
+A
+  .$(true)
+  .$('Count')
+  .$(5)
+.$value();
+```
+yields
+```javascript
+[true, 'Count', 5]
 ```
 
 ## Licence
