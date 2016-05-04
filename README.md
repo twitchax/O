@@ -1,5 +1,5 @@
 # O
-An object guy.
+A fluent object guy.
 
 "O" (and its sibling "A") provide fluent APIs for building javascript objects and arrays.
 
