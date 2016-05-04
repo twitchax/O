@@ -4,8 +4,11 @@ An object guy.
 "O" (and its sibling "A") provide fluent APIs for building javascript objects and arrays.
 
 ## Information
+
+The syntax is pretty self-explanatory in the code.  Look at "O_Impl" and "A_Impl" for syntax.  The only interesting part is how "O" pass function names through to the object.  Therefore, you can use _function names_ as property setters.  See [examples](#Examples) for more details.
+
 ### Examples
-The syntax is pretty self-explanatory in the code.  Look at "O_Impl" and "A_Impl" for syntax.  The only interesting part is how "O" pass function names through to the object.  Therefore, you can use _function names_ as property setters.  For example:
+A basic example follows:
 ```javascript
 O
   .refresh(true)
