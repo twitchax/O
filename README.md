@@ -47,7 +47,7 @@ yields
 [true, 'Count', 5]
 ```
 
-## Licence
+## License
 
 ```
 The MIT License (MIT)
