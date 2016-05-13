@@ -1,0 +1,13 @@
+{
+  "name": "FluentO",
+  "version": "1.0",
+  "main": [
+    "lib/O.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {}
+}
