@@ -1,6 +1,6 @@
 {
-  "name": "twitchax-fluento",
-  "version": "1.0",
+  "name": "fluento",
+  "version": "1.1",
   "main": [
     "lib/O.js"
   ],
